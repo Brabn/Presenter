@@ -4,8 +4,6 @@ Commercials stored in SD card and can be played under various conditions. Playba
 The device does not require a permanent connection to the network (it is powered by whether it is batteries
 To download videos, a standard card reader that supports SD cards is used.
 
-## Functions
-
 ## Main system parameters:
 •	Screen size			7’
 •	Screen resolution		800x480
@@ -30,8 +28,9 @@ To download videos, a standard card reader that supports SD cards is used.
 •	MOSFET transistors IRLML2030TRPBF and IRLML9303TRPBF
 
 ## Wiring diagram
-![Presenter wiring diagram](https://github.com/Brabn/Presenter/blob/main/Wiring_diagram/Presenter.Wiring_diagramEN.png)
+![Presenter wiring diagram](https://github.com/Brabn/Presenter/blob/main/Wiring_diagram/Presenter.Wiring_diagram.png)
 
 ## Possible further improvements
 
 ## Photos
+![Presenter assembly](https://github.com/Brabn/Presenter/blob/main/Photo/Presenter_assembly.jpg)
