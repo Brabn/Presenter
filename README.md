@@ -10,6 +10,8 @@ To download videos, a standard card reader that supports SD cards is used.
 ## Main system parameters:
 * Screen size			7’
 * Screen resolution		800x480
+* Video standard resolution  800x480
+* Video supporting format  mp4, avi
 * SD-card size			8 Gb
 * Speaker power 		2W
 * Accumulator type		18650 (2pcs)
